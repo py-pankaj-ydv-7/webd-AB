@@ -1,0 +1,21 @@
+main{
+    border: 5px solid brown;
+    width: 25%;
+    
+    
+}
+/* ye hamari best practice hoti hai */
+h1{
+    font-size: 3rem;
+}
+h3{
+    font-size: 1.5rem;
+}
+p{
+    font-size: 1.5rem;
+}
+section{
+    border: 5px dashed green;
+    width: 50vw;
+    ;
+}
